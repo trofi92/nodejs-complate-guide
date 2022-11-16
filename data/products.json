@@ -1,9 +1,1 @@
-[
-  {
-    "id": "123245",
-    "title": "A Book",
-    "imageUrl": "https://www.publicdomainpictures.net/pictures/10000/velka/1-1210009435EGmE.jpg",
-    "description": "This is an awesome book!",
-    "price": "19"
-  }
-]
+[{"id":"12312515","title":"A Book","imageUrl":"https://www.publicdomainpictures.net/pictures/10000/velka/1-1210009435EGmE.jpg","description":"This is an awesome book!","price":"19"},{"title":"wtf","imageUrl":"https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/8c56/c6bf7af0c4b55400029e2b03ab7c51cb9d94d6c13bc1d05a4210c4274da7.jpg","description":"wtf you won't buy this stuff","price":"50000","id":"0"}]
